@@ -1,0 +1,18 @@
+.weather {
+  padding-top: 100px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.weather__city {
+  font-size: 50px;
+}
+
+.table__header {
+  text-transform: uppercase;
+}
+
+.table__data {
+  text-align: center;
+  text-transform: uppercase;
+}
